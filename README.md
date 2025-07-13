@@ -1,14 +1,16 @@
 <h1 align="left">Hey 👋 I'm Rajasri Kuchana</h1>
 
-###
-
-<p align="left">I'm a final year Computer Science undergrad from India, and I worked as intern at Infosys Springboard. I’m passionate about full-stack development, SDE roles, and problem-solving with Java and Spring.</p>
+<p align="left">
+I'm a final-year Computer Science Engineering undergrad from India. I interned at Infosys Springboard, where I worked on a real-time project using React.js and Spring Boot, following a microservices architecture. I’m passionate about full-stack development, SDE roles, and solving real-world problems with Java and Spring Boot.
+<br><br>
+I also contributed to the Student Tribe community project <a href="https://github.com/KanniShashankh/st-dost-issues" target="_blank"><strong>st-dost-issues</strong></a>, which powers a chatbot in the Student Tribe app to handle student queries and feedback efficiently.
+</p>
 
 <p align="left">
-✨ Passionate about building web applications and solving real-world problems through code.<br>
-📚 Currently sharpening my skills in full-stack development using React, Spring Boot, and MySQL.<br>
-🎯 Aspiring Software Development Engineer (SDE) with a strong foundation in Java and DSA.<br>
-📜 Certified Full Stack Developer by Student Tribe.<br>
+✨ Passionate about building scalable web applications and tackling challenges through code. <br>
+📚 Currently sharpening my full-stack skills with React, Spring Boot, and MySQL. <br>
+🎯 Aspiring Software Development Engineer (SDE) with strong foundations in Java and DSA. <br>
+🚀 Actively contributing to open-source and always eager to learn new technologies. <br>
 </p>
 
 

@@ -6,7 +6,7 @@
 
 <p align="left">
 ✨ Passionate about building web applications and solving real-world problems through code.<br>
-📚 Currently learning full-stack development using React, Spring Boot, and MySQL.<br>
+📚 Currently sharpening my skills in full-stack development using React, Spring Boot, and MySQL.<br>
 🎯 Aspiring Software Development Engineer (SDE) with a strong foundation in Java and DSA.<br>
 📜 Certified Full Stack Developer by Student Tribe.<br>
 </p>
